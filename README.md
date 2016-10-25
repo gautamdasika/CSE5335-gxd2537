@@ -7,7 +7,7 @@ b. I chose AngularJS, since it seemed to be the one with the most users and the 
 
 c. I found the graph making to be quite easy, since I already did it before. Also because there's no new technology to be learnt.
 
-d. Accessing JSON data in different parts of the file was a bit tricky, since it had to be called from scope objects in HTML and variables in Javascript.
+d. Accessing JSON data in different parts of the file was a bit tricky, since it had to be called from scope objects in HTML and variables in Javascript. I found uploading to git very difficult.
 
 e. I didn't install any extra components other than Express JS. I installed Express so that I can get basic things by default and can concentrate on the project requirements.
 
